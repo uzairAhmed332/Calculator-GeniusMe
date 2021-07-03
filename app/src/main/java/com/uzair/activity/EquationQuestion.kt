@@ -13,7 +13,7 @@ import com.uzair.utils.SharedPrefsSettings
 import kotlinx.android.synthetic.main.activity_equation.*
 import java.util.*
 
-//843
+
 class EquationQuestion : AppCompatActivity() {
 
     private val questions = ArrayList<String>()

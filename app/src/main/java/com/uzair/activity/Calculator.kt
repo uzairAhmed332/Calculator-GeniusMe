@@ -28,6 +28,7 @@ class Calculator : AppCompatActivity() {
 
         deletevar.setOnClickListener { deleteNumber() }
         inputBox.setText(display)
+
     }
 
     private fun deleteNumber() {
