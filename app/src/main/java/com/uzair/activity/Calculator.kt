@@ -37,8 +37,7 @@ class Calculator : AppCompatActivity() {
     private fun getInput(): String {
 
         return inputBox.text.toString()
-
-
+        
     }
 
 
