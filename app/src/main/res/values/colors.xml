@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="equl_text_color">#ffffff</color>
+    <color name="input_backg_color">#ffffff</color>
+
+
+    <color name="buttonone">#ff5722</color>
+    <color name="buttontwo">#ab47bc</color>
+    <color name="buttonthree">#8bc34a</color>
+    <color name="buttonfour">#2196f3</color>
+    <color name="qboard_black">#212121</color>
+    <color name="white_off">#fafafa</color>
+
+    <color name="correct_ans">#4caf50</color>
+    <color name="wrong_ans">#fc4a1a</color>
+</resources>
+

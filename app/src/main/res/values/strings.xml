@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <!--User feedback strings for Time Trials-->
+    <string name="good_job">GOOD JOB!</string>
+    <string name="amazing">AMAZING!</string>
+    <string name="fantastic">FANTASTIC!</string>
+    <string name="damn">DAMN!</string>
+    <string name="genius">GENIUS!</string>
+    <string name="sweet">SWEET!</string>
+    <string name="crazy">WOW!</string>
+    <string name="keep">NICE!</string>
+    <string name="unbelievable">NICE!</string>
+    <string name="brilliant">BRILLIANT!</string>
+    <string name="surprised">WOW! O_O</string>
+    <string name="way_to_go">WAY TO GO!</string>
+    <string name="better_luck_next_time">Better luck next time!</string>
+    <string name="ohno">Oh no!</string>
+    <string name="next">NEXT!</string>
+    <string name="sad">:(</string>
+
+    <!--score-->
+    <string name="score">SCORE: %1$d</string>
+
+    <!-- timer-->
+    <string name="timer_true_false">Time Left: %1$ds</string>
+    <string name="timer_true_false_ten_less">Time Left: 0%1$ds</string>
+
+
+    <!--questions-->
+    <string name="sum">%1$d + %2$d = %3$d</string>
+    <string name="sub">%1$d - %2$d = %3$d</string>
+    <string name="mult">%1$d x %2$d = %3$d</string>
+    <string name="div">%1$d / %2$d = %3$d</string>
+
+
+</resources>
