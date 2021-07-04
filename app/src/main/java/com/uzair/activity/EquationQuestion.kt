@@ -521,6 +521,7 @@ class EquationQuestion : AppCompatActivity() {
                         }
                     }
                 }
+
                 if (subtraction == true) {
                     return subtractQuestion()
                 } else {
@@ -536,6 +537,7 @@ class EquationQuestion : AppCompatActivity() {
                         }
                     }
                 }
+
                 if (multiplication == true) {
                     return multiplyQuestion()
                 } else {
@@ -551,6 +553,7 @@ class EquationQuestion : AppCompatActivity() {
                         }
                     }
                 }
+
                 if (division == true) {
                     return divisionQuestion()
                 } else {
@@ -568,6 +571,7 @@ class EquationQuestion : AppCompatActivity() {
                 }
                 "Enable at least one type of question."
             }
+
             1 -> {
                 if (subtraction == true) {
                     return subtractQuestion()
@@ -584,6 +588,7 @@ class EquationQuestion : AppCompatActivity() {
                         }
                     }
                 }
+
                 if (multiplication == true) {
                     return multiplyQuestion()
                 } else {
@@ -599,6 +604,7 @@ class EquationQuestion : AppCompatActivity() {
                         }
                     }
                 }
+
                 if (division == true) {
                     return divisionQuestion()
                 } else {
@@ -649,6 +655,7 @@ class EquationQuestion : AppCompatActivity() {
                 }
                 "Enable at least one type of question."
             }
+            
             3 -> {
                 if (division == true) {
                     return divisionQuestion()
