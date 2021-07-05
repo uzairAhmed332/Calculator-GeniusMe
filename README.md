@@ -2,7 +2,7 @@
 
 GooglePlay Store Link: https://play.google.com/store/apps/details?id=com.uzair.calculator
 
-Calculator-GeniusMe is an app that enhances user competency by using a calculator with time. 
+Calculator-GeniusMe is an app that gradually enhances user competency by using a calculator. 
 
 The app will keep track of what you calculate last time, and accordingly will show some basic challenges the next time user opens the app. Moreover, if the user tackles the tasks really well, then the next time the user will face, somewhat, more challenging tasks. All the tasks are tailored according to what the user calculate last time!  
 
